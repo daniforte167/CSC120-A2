@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+It took a lot of trial and error before I found out what worked and what I was supposed to do. I kept getting an error message but I couldn't figure out why even though it pointed out which line it was on. It took some time and some reloading before it clicked that I had just messed up somewhere by adding one space, so I'd advise anyone taking this course to definitely be mindful of that kind of thing. I would also advise them to ask for help if they need it! I get anxious talking to new people or even just when I try to ask for help on things because I don't want to seem like I don't know what I'm doing but people really don't care and are usually more than happy to help! Having someone talk to you and help explain things when you get confused is super beneficial so I definitely recommend!
